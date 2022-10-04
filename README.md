@@ -1,2 +1,1 @@
-My first readme 
-samson please o
+My first readme samson please o
